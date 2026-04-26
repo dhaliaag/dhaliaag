@@ -6,7 +6,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,cs,unity,python,git,github,vscode" />
 
-## Languages
+## Current Learning/Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
 
