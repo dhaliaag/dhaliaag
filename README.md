@@ -18,6 +18,12 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhaliaag)
 
+<p align="center">
+<img src="GIF DA KIRARA" width="320"/>
+</p>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&width=600&lines=Hi+I'm+Dhalia+🌸;Future+Game+Developer;Building+Cute+Things+With+Code)
+
 ## Goals
 🦢 Become financially independent through programming  
 🦢 Create a RPG game
