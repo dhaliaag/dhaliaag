@@ -18,6 +18,8 @@ Building cute things with code ✨
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaliaag&layout=compact)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=dhaliaag)
+
 ## Currently Learning
 - Java ☕
 - C# 🎮
