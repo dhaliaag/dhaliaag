@@ -1,4 +1,4 @@
-# Hi, I'm Dhalia 🏳️‍⚧️☁️
+# Hi, I'm Dhalia ☁️
 
 Aspiring Java developer  
 Future game developer  
