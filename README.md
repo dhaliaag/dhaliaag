@@ -12,6 +12,12 @@ Building cute things with code ✨
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
 
+## GitHub Stats
+
+![Dhalia's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhaliaag&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhaliaag&layout=compact)
+
 ## Currently Learning
 - Java ☕
 - C# 🎮
