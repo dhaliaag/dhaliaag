@@ -6,7 +6,7 @@ Building cute things with code ✨
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=java,cs,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=java,cs,unity,python,git,github,vscode" />
 
 ## Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
