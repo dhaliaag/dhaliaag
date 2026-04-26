@@ -1,9 +1,5 @@
 # Hi, I'm Dhalia ☁️
 
-Aspiring Java developer  
-Future game developer  
-Building cute things with code ✨
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Java+Developer;Future+Game+Developer;Building+Cute+Things+With+Code)
 
 ## Tech Stack
