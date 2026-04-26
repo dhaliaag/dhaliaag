@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Dhalia 🏳️‍⚧️☁️
 
-<!--
-**dhaliaag/dhaliaag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Java developer  
+Future game developer  
+Building cute things with code ✨
 
-Here are some ideas to get you started:
+## Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Java ☕
+- C# 🎮
+- Game development
+
+## Goals
+🦢 Become financially independent through programming  
+🦢 Create a RPG game
+🦢 Get a job
