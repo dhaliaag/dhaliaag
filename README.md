@@ -18,11 +18,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=dhaliaag)
 
-## Currently Learning
-- Java ☕
-- C# 🎮
-- Game development
-
 ## Goals
 🦢 Become financially independent through programming  
 🦢 Create a RPG game
