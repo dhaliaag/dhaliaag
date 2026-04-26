@@ -16,4 +16,4 @@ Building cute things with code ✨
 ## Goals
 🦢 Become financially independent through programming  
 🦢 Create a RPG game
-🦢 Get a job
+🦢 Become a software engineer
